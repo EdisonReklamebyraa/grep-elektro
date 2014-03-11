@@ -133,7 +133,10 @@ position: relative;
 h3.whited {
 	color: white;
 	margin: 20px auto 20px auto;
-} 
+}
+h2.whited {
+	color: white;
+}  
 
 .referanser {
 	margin: 0 auto 80px auto;
