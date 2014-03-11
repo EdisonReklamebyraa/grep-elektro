@@ -316,6 +316,10 @@ div.pynt {
 		-moz-box-shadow:    -10px 10px 0px 0px rgba(51, 153, 153, 1);
 		box-shadow:         -10px 10px 0px 0px rgba(51, 153, 153, 1);
 	}
+	.featurette-image {
+		margin-bottom: 50px;
+	}
+	
 	footer .text-center, footer .text-right {
 		text-align: left;
 	}
