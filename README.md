@@ -1,4 +1,4 @@
-grep-mekanisk
+grep-elektro
 =============
 
-mekanisk.grep-as.no
+elektro.grep-as.no
